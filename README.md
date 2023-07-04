@@ -26,7 +26,7 @@ https://kodekloud-engineer.com/#!/user_profile?uid=16849499299783096
 
 ## Let's Connect!
 
-I'm always open to collaborating on exciting projects and discussing new opportunities. Feel free to reach out to me via the following channels:
+My repositories are open for contribution and I'm always open to collaborating on exciting projects and discussing new opportunities. Feel free to reach out to me via the following channels:
 
 - Email: shehrozaliqureshi@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shehrozaliqureshi
