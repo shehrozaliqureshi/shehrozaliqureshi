@@ -1,9 +1,5 @@
 ### Hey there!
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 Hi, I am Shehroz, an experienced Software Developer with over 7 years of hands-on experience in building high-traffic web and mobile applications based on Microservices Architecture. I have a strong background in both frontend and backend development, along with proficiency in cloud technologies, particularly AWS. 
 
 Throughout my career, I have honed my skills and stayed up-to-date with the latest industry trends, utilizing cutting-edge development tools and following best practices. I take pride in my ability to deliver robust and scalable solutions that meet the needs of modern digital landscapes.
